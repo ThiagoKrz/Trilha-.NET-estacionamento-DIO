@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r7uMWLkB3Gr/pHA8COguaiFOlfq5ZrkIxQvOCwbHWw1vWcEGqeKVdyWtfKBMQmZH/4BdxLMNQn2pwLUFrct8Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thisi\\Documents\\DIO\\NET C#\\Testes-.NET-main\\Introdução\\Intermediario\\Intermediario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thisi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
